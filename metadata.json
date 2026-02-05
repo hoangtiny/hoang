@@ -1,0 +1,7 @@
+{
+  "name": "Miresto AI - Siêu Đầu Bếp Nhật Bản",
+  "description": "Biến hình thành Siêu đầu bếp Hatoyama và sáng tạo tuyệt tác ẩm thực Nhật Bản dựa trên cảm xúc của riêng bạn.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
